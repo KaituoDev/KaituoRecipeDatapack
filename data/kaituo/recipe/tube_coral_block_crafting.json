@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CC",
+        "CC"
+    ],
+    "key": {
+        "C":"tube_coral"
+    },
+    "result": {
+        "id": "tube_coral_block",
+        "count": 1
+    },
+    "category": "building"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+        "#terracotta",
+        "#terracotta",
+        "#terracotta",
+        "#terracotta",
+        "bone_meal",
+        "#terracotta",
+        "#terracotta",
+        "#terracotta",
+        "#terracotta"
+    ],
+    "result": {
+      "id": "minecraft:terracotta",
+      "count": 8
+    },
+    "category": "building"
+}

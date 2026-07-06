@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CC",
+        "CC"
+    ],
+    "key": {
+        "C":"bubble_coral"
+    },
+    "result": {
+        "id": "bubble_coral_block",
+        "count": 1
+    },
+    "category": "building"
+}

@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "无限开拓生存服的自定义合成表",
+		"min_format": [88, 0],
+        "max_format": [107, 1]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CC",
+        "CC"
+    ],
+    "key": {
+        "C":"horn_coral"
+    },
+    "result": {
+        "id": "horn_coral_block",
+        "count": 1
+    },
+    "category": "building"
+}

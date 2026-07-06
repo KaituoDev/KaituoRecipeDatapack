@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+        "#wool",
+        "#wool",
+        "#wool",
+        "#wool",
+        "resin_clump",
+        "#wool",
+        "#wool",
+        "#wool",
+        "#wool"
+    ],
+    "result": {
+      "id": "minecraft:sponge",
+      "count": 4
+    },
+    "category": "misc"
+}

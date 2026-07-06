@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "gag",
+        "ggg"
+    ],
+    "key": {
+        "g":"minecraft:gold_block",
+        "a":"minecraft:golden_apple"
+    },
+    "result": {
+      "id": "minecraft:enchanted_golden_apple",
+      "count": 1,
+      "components": {
+            "minecraft:lore": [
+                {"text": "人工合成", "bold": true, "italic": false, "color": "blue"},
+                {"text": "虽有嘉肴，弗食，不知其旨也......", "italic": true, "color": "gold"}
+            ]
+        }
+    },
+    "category": "misc"
+}

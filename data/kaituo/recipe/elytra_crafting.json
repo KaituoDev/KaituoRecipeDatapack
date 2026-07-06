@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "WMW",
+        "RFR",
+        "CMC"
+    ],
+    "key": {
+        "W":"#wool",
+        "M":"phantom_membrane",
+        "R":"end_rod",
+        "F":"chorus_flower",
+        "C":"end_crystal"
+    },
+    "result": {
+        "id": "elytra",
+        "count": 1,
+        "components": {
+            "minecraft:lore": [
+                "",
+                {"text": "人工合成", "bold": true, "italic": false, "color": "blue"},
+                "",
+                {"text": "天之苍苍，其正色邪?", "italic": true, "color": "aqua"},
+                {"text": "其远而无所至极邪?", "italic": true, "color": "aqua"},
+                {"text": "\"其\"视下也，亦若是则已矣......", "italic": true, "color": "aqua"}
+            ]
+        }
+    },
+    "category": "equipment"
+}

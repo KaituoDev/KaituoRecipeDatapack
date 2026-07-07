@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "minecraft:crimson_wood_cutting",
+  "ingredient":"minecraft:crimson_stem",
+  "result": {
+      "id": "minecraft:crimson_sign",
+      "count": 1
+    }
+}

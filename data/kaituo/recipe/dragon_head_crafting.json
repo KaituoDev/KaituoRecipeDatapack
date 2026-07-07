@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "OE ",
+        "OCO",
+        "BBB"
+    ],
+    "key": {
+        "O":"obsidian",
+        "E":"ender_eye",
+        "C":"crying_obsidian",
+        "B":"dragon_breath"
+    },
+    "result": {
+        "id": "dragon_head",
+        "count": 1
+    },
+    "category": "misc"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "minecraft:dark_oak_wood_cutting",
+    "ingredient":"minecraft:dark_oak_log",
+    "result": {
+      "id": "minecraft:dark_oak_fence",
+      "count": 2
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "minecraft:cherry_wood_cutting",
+    "ingredient":"minecraft:cherry_log",
+    "result": {
+      "id": "minecraft:cherry_trapdoor",
+      "count": 1
+    }
+}

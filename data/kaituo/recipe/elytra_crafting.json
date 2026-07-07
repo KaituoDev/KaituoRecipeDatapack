@@ -1,16 +1,16 @@
 {
     "type": "crafting_shaped",
     "pattern": [
-        "WMW",
         "RFR",
-        "CMC"
+        "MHM",
+        "MSM"
     ],
     "key": {
-        "W":"#wool",
         "M":"phantom_membrane",
         "R":"end_rod",
         "F":"chorus_flower",
-        "C":"end_crystal"
+        "H":"dragon_head",
+        "S":"shulker_shell"
     },
     "result": {
         "id": "elytra",
